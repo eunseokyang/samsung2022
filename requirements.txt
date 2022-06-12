@@ -1,0 +1,4 @@
+torch
+torchvision
+wandb==0.12.17
+einops==0.4.1
